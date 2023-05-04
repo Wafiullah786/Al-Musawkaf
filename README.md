@@ -24,6 +24,7 @@ TECHNOLOGIES/TOOLS USED
 6. Animations
 7. Payment Gateway
 8. Laravel(php) Server Side (Backend)
+9. Adobe Xd (Design Prototype)
 
 SYSTEM SCREENSHOTS
 
