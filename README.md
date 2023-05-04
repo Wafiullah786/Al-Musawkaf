@@ -12,10 +12,22 @@ SYSTEM FEATURES
 3. View Products
 4. Place Order
 5. View Orders History
+6. Augmented View
+7. Antique Item History through QR Scan
+
+TECHNOLOGIES/TOOLS USED
+1. Flutter
+2. Cubit State Management
+3. Augmented Reality
+4. QR Code Scanning
+5. REST APIs
+6. Animations
+7. Payment Gateway
+8. Laravel(php) Server Side (Backend)
 
 SYSTEM SCREENSHOTS
 
-<img src = "1.jpg" width ="250" /> <img src = "2.jpg" width ="250" /> <img src = "3.jpg" width ="250" /> <img src = "4.jpg" width ="250" /> <img src = "5jpg" width ="250" /> <img src = "6.jpg" width ="250" />
+<img src = "1.jpg" width ="250" /> <img src = "2.jpg" width ="250" /> <img src = "3.jpg" width ="250" /> <img src = "4.jpg" width ="250" /> <img src = "5.jpg" width ="250" /> <img src = "6.jpg" width ="250" />
 
 INSTALLATION LINK:
 
