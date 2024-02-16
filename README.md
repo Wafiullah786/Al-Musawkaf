@@ -30,9 +30,5 @@ SYSTEM SCREENSHOTS
 
 <img src = "1.jpg" width ="250" /> <img src = "2.jpg" width ="250" /> <img src = "3.jpg" width ="250" /> <img src = "4.jpg" width ="250" /> <img src = "5.jpg" width ="250" /> <img src = "6.jpg" width ="250" />
 
-INSTALLATION LINK:
-
-APK LINK: https://drive.google.com/file/d/1Ya0zd4-UKb0W-kGQZ9UqId952ZkzREnk/view?usp=sharing
-
 
                                                               THANKS
